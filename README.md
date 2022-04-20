@@ -1,5 +1,5 @@
-### Olá, eu sou a Ana Luísa 😃
-##
+## <div align="center"> Hello 👋, I'm Ana Luísa </div>
+
 <div align="center">
   <a href="https://github.com/AnaluisaPA">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=AnaluisaPA&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
